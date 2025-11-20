@@ -5,6 +5,7 @@ An HR-focused GenAI assistant that can:
 - Answer HR policy questions using **semantic search (RAG-style)**  
 - Analyze **employee feedback** to surface **negative / at-risk** comments  
 - Route queries to the right “tool” (policy vs feedback) using a simple **agent-like controller**
+- Link:https://hr-genai-copilot-wwlawsrcxxqk5pxevunojz.streamlit.app/
 
 Built with:
 - `sentence-transformers` for embeddings
